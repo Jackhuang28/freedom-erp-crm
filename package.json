@@ -39,11 +39,11 @@
     "prepare": "npm run build"
   },
   "dependencies": {
-    "hono": "4.13.8",
+    "hono": "4.13.16",
     "react": "19.3.0",
     "react-dom": "19.3.0",
     "wrangler": "4.138.0",
-    "zod": "4.6.5"
+    "zod": "4.6.6"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "5.20260924.1",
@@ -55,7 +55,7 @@
     "miniflare": "5.20260921.1-alpha",
     "tsx": "4.23.15",
     "typescript": "7.0.2",
-    "vite": "8.3.0"
+    "vite": "8.3.3"
   },
   "repository": {
     "type": "git",
